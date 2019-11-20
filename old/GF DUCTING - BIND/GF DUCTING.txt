@@ -1,0 +1,46 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Monday, October 14, 2019, 5:52 PM.
+
+Drawing:
+This is a transmittal based on GF DUCTING.dwg.
+
+Files:
+
+Root Drawing:
+	GF DUCTING.dwg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\Amarant.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\romans.shx
+	Fonts\stylu.ttf
+	Fonts\times.ttf
+	Fonts\ARIALN.TTF
+	Fonts\arial.ttf
+	Fonts\verdana.ttf
+	Fonts\txt.shx
+	Fonts\GOTHIC.TTF
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2007/LT 2007 format.
+
+
+Notes for distribution:
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\CAD-2\appdata\roaming\autodesk\autocad 2019\r23.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
